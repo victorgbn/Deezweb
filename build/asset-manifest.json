@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/deezapp/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/deezapp/static/js/main.2b98b5eb.chunk.js",
+    "main.js.map": "/deezapp/static/js/main.2b98b5eb.chunk.js.map",
+    "runtime-main.js": "/deezapp/static/js/runtime-main.48955a8b.js",
+    "runtime-main.js.map": "/deezapp/static/js/runtime-main.48955a8b.js.map",
+    "static/js/2.908ab174.chunk.js": "/deezapp/static/js/2.908ab174.chunk.js",
+    "static/js/2.908ab174.chunk.js.map": "/deezapp/static/js/2.908ab174.chunk.js.map",
+    "index.html": "/deezapp/index.html",
+    "precache-manifest.8f49b413871fa9487b2832bb8a393253.js": "/deezapp/precache-manifest.8f49b413871fa9487b2832bb8a393253.js",
+    "service-worker.js": "/deezapp/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/deezapp/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.908ab174.chunk.js.LICENSE.txt": "/deezapp/static/js/2.908ab174.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/deezapp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48955a8b.js",
+    "static/js/2.908ab174.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.2b98b5eb.chunk.js"
+  ]
+}
