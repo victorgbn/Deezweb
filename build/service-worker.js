@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/deezapp/precache-manifest.8f49b413871fa9487b2832bb8a393253.js"
+  "/deezapp/precache-manifest.a31b30474ee647ab80dc68b4faaf3eed.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -26,10 +26,11 @@ function Track(props) {
                 </div>
                 <audio src={music.preview} className="w-100" controls></audio><br />
                 <a href="#" onClick={onFavClick(music)} className={'btn btn-sm btn-danger ' + favBtnClass}>
-                    <> <i className="fas fa-heart"></i></>
-                        Ajouter aux favoris</a>
-                <><i className="fas fa-heart-broken"></i>Retirer aux favoris</>
-
+                    {isFavorite
+                        ? <><i className="fas fa-heart-broken"></i> Retirer des favoris</>
+                        : <><i className="fas fa-heart"></i> Ajouter aux favoris</>
+                    }
+                </a>
             </div>
         </div>
     );
